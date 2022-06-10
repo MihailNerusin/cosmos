@@ -1,0 +1,40 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+}
+
+.circle {
+    width: 80px;
+    height: 80px;
+    border: 30px double #594cd8; 
+    background-color: #ffcb1f;
+}
+
+h1 {
+    font-size: 70px;
+    background-color:#6200ff ;
+    padding: 10px;
+    border-radius: 20px;
+    color: #2618b1;
+}
+
+h1{
+    color: black;
+}
+main{
+    background-color:#6200ff;
+
+
+}
+p{
+    color: black;
+}   
+
+.header-h1{
+    border: 3px solid purple;
+}
+
+a {
+border:3px solid rgb(0, 0, 0);
+border-radius: 10px 10px;
+}
